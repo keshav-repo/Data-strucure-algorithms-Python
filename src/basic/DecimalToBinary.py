@@ -1,3 +1,5 @@
+# Convert decimal number to binary number
+
 decimal_number=input("Please enter a decimal number ")
 decimal_number=int(decimal_number)
 binaryRes=""
