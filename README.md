@@ -41,27 +41,33 @@ Learning Data Structure and algorithm using python language
 
 **String based questions**
 
-|   | Program Name                                                      | Example                                                  | Soultion Reference |
-|---|-------------------------------------------------------------------|----------------------------------------------------------|--------------------|
-| 1 | Check if a string is palindrom or not                             | malayalam->Yes ; geeks-> no                              |                    |
-| 2 | Reverse words in string                                           | I:my name is laxmi O:laxmi is name my                    |                    |
-| 3 | Check if substring is present in string.(not use inbuilt library) | I: my name is John, name O: Yes                          |                    |
-| 4 | check all the word frequency in string                            | I: 'I am best' O:'I'->1,'am'->1, 'best'->1               |                    |
-| 5 | Find the length of string. (not using inbuilt method)             |                                                          |                    |
-| 6 | Python Program to print even lenght word in string                | I: This is a python language, O: This is python language |          |
-| 7 | Print the last word in string                                     | I: This is a python language, O: language                |                    |
-| 8 | Python program to convert matrics into string                     | I: [[1, 3, “gfg”], [2, “is”, 4], [“best”, 9, 5]] O: 13gfg2is4best95                                   |                    |
+|    | Program Name                                                      | Example                                                  |                                                                    | Soultion Reference |
+|----|-------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------|--------------------|
+| 1  | Check if a string is palindrom or not                             | malayalam->Yes ; geeks-> no                              |                                                                    |                    |
+| 2  | Reverse words in string                                           | I:my name is laxmi O:laxmi is name my                    |                                                                    |                    |
+| 3  | Check if substring is present in string.(not use inbuilt library) | I: my name is John, name O: Yes                          |                                                                    |                    |
+| 4  | check all the word frequency in string                            | I: 'I am best' O:'I'->1,'am'->1, 'best'->1               |                                                                    |                    |
+| 5  | Find the length of string. (not using inbuilt method)             |                                                          |                                                                    |                    |
+| 6  | Python Program to print even lenght word in string                | I: This is a python language, O: This is python language |                                                                    |          |
+| 7  | Print the last word in string                                     | I: This is a python language, O: language                |                                                                    |                    |
+| 8  | Python program to convert matrics into string                     | I: [[1, 3, “gfg”], [2, “is”, 4], [“best”, 9, 5]] O: 13gfg2is4best95                                   |                                                                    |                    |
+| 9  | Defanging an IP Address                      |             | [leetcode](https://leetcode.com/problems/defanging-an-ip-address/) |                    |
+| 10 | Count Items Matching a Rule                |               | [leetcode](https://leetcode.com/problems/count-items-matching-a-rule/)                                                           |                    |
 
 
 **Dictionary based Questions**
 
-|   | Program Name                                   | Example                                                                                                                                          | Question Reference | Soultion Reference |
-|---|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|
-| 1 | Find the frequency of all elements in the list | [1, 1, 1, 5, 5, 3, 1, 3, 3, 1, 4, 4, 4, 2, 2, 2, 2]  1: 5                                                                                        |                    | ListEleFreq.py     |
-| 2 | Find all the dubicate character in string      | I: hello, O: h, I: characters  O: c,a,r                                                                                                          |                    |  DoublicateInString.py |
-| 3 | Find whether an List is subset of another List | I: list1= [11, 1, 13, 21, 3, 7] , list2 = [11, 3, 7, 1] O: Yes                                                                                   |                    | SubSetList.py     |
-| 4 | Find Itinerary from a given list of tickets    | I: "Chennai" -> "Banglore","Bombay" -> "Delhi", "Goa" -> "Chennai","Delhi"  -> "Goa" O: Bombay->Delhi, Delhi->Goa, Goa->Chennai, Chennai->Banglore |                    |  FindItinary.py  |
-| 5 | Given an array, arr[0..n-1] of distinct elements and a range [low, high], find all numbers that are in a range, but not the array. | I: list = [ 1, 14, 11, 51, 15], low = 50, high = 55, Output: 50, 52, 53, 54 55   |                    | ElementNotInRange.py|
+|   | Program Name                                   | Example                                                                                                                                          | Question Reference                                              | Soultion Reference |
+|---|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------|
+| 1 | Find the frequency of all elements in the list | [1, 1, 1, 5, 5, 3, 1, 3, 3, 1, 4, 4, 4, 2, 2, 2, 2]  1: 5                                                                                        |                                                                 | ListEleFreq.py     |
+| 2 | Find all the dubicate character in string      | I: hello, O: h, I: characters  O: c,a,r                                                                                                          |                                                                 |  DoublicateInString.py |
+| 3 | Find whether an List is subset of another List | I: list1= [11, 1, 13, 21, 3, 7] , list2 = [11, 3, 7, 1] O: Yes                                                                                   |                                                                 | SubSetList.py     |
+| 4 | Find Itinerary from a given list of tickets    | I: "Chennai" -> "Banglore","Bombay" -> "Delhi", "Goa" -> "Chennai","Delhi"  -> "Goa" O: Bombay->Delhi, Delhi->Goa, Goa->Chennai, Chennai->Banglore |                                                                 |  FindItinary.py  |
+| 5 | Given an array, arr[0..n-1] of distinct elements and a range [low, high], find all numbers that are in a range, but not the array. | I: list = [ 1, 14, 11, 51, 15], low = 50, high = 55, Output: 50, 52, 53, 54 55   |                                                                 | ElementNotInRange.py|
+| 6 | Jewels and Stones               |                          | [leetcode](https://leetcode.com/problems/jewels-and-stones/)    |                     |
+| 7 |  Number of Good Pairs      |                          | [leetcode](https://leetcode.com/problems/number-of-good-pairs/) |                     |
+| 8 | Decode the Message         |                          | [leetcode](https://leetcode.com/problems/decode-the-message/)                                                        |                     |
+| 9 | Number of Arithmetic Triplets                     |   [leetcode](https://leetcode.com/problems/number-of-arithmetic-triplets/)                       |                                                                                                                      |                     |
 
 
 References:
