@@ -52,7 +52,7 @@ Learning Data Structure and algorithm using python language
 | 7  | Print the last word in string                                     | I: This is a python language, O: language                |                                                                    |                    |
 | 8  | Python program to convert matrics into string                     | I: [[1, 3, “gfg”], [2, “is”, 4], [“best”, 9, 5]] O: 13gfg2is4best95                                   |                                                                    |                    |
 | 9  | Defanging an IP Address                      |             | [leetcode](https://leetcode.com/problems/defanging-an-ip-address/) |                    |
-| 10 | Count Items Matching a Rule                |               | [leetcode](https://leetcode.com/problems/count-items-matching-a-rule/)                                                           |                    |
+| 10 | Count Items Matching a Rule                |               | [leetcode](https://leetcode.com/problems/count-items-matching-a-rule/)                                                           |  MatchingRules.py  |
 
 
 **Dictionary based Questions**

@@ -5,5 +5,6 @@
 | 3   | Link list                                     |       |
 | 4   | Sorting algorithm                             |       |
 | 5   | Stack and queue                               |       |
-| 6   |                                               |       |
-|     |                                               |       |
+| 6   | Exception                                     |       |
+| 7   | Threading                                     |       |
+| 8   |                                               |       |
