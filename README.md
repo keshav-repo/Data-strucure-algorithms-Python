@@ -76,6 +76,10 @@ Learning Data Structure and algorithm using python language
 | 15 | Sort the People  |                        | [leetcode](https://leetcode.com/problems/sort-the-people/?envType=list&envId=retdjqle)   | SortPeople.py         |
 
 
+### Other Questions
+1. [Linked list ](https://github.com/keshav-repo/Data-strucure-algorithms-Python/blob/master/Notes/LinkedList.md)
+2. 
+
 References:
 1. https://www.geeksforgeeks.org/python-programming-examples/
 2. https://www.geeksforgeeks.org/top-20-hashing-technique-based-interview-questions/
