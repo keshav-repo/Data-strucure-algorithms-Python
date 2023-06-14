@@ -1,0 +1,36 @@
+num=5
+Go through each number equal to 5 to 1.
+multiply 5 to each term below it until 1.
+Store it in a variable named result.
+Result=1
+Iterate from 1 to 5
+Multiply each term
+Result=Result*i
+return Result
+
+
+Python Program for Program to find area of a circle given the radius.(Correct)
+Program to find average of three number. Get three number from input. (Debug program Hw)
+Python Program to convert Celsius to Fahrenheit.(Correct)
+Check if the given input year is a leap year.
+Write a program to reverse an integer in Python.(Doubt)(#hw: Using the basic logic try doing the program.)
+Write a program to convert decimal number to binary ?(Doubt)(Don't spend much time, try to program in the reverse order to get correct output.)
+
+10
+5  0
+2  1
+1 0
+110
+2^2 2^1 2^0
+
+
+decimal to binary
+Research j in in complex numbers(Done)
+
+
+
+Q4 Doubt
+Q8 Doubt
+Doubt decimal to binary
+Reversing integer in python
+Leap year
